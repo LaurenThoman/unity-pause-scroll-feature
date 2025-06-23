@@ -3,6 +3,8 @@
 
 🎮 This project showcases a vertical camera scroll system and pause menu UI I developed in Unity.
 
+🎦 Watch a full video explanation here!: https://youtu.be/j9e5Tj7Vr8A
+
 ✅ Built for a group game jam (ClimateJam1E) — this demo repo highlights my individual contribution.
 
 🛠 Technologies: Unity, C#, Input System
