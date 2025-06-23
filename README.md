@@ -12,4 +12,4 @@
 - Scripts/ScrollCamera.cs
 - Scenes/Lauren_PauseScroll.unity
 
-Created by Lauren Thoman ✨
+Created by Lauren Thoman
